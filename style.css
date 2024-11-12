@@ -201,7 +201,7 @@ form{ width: 100%; }
 
         .container.active .form-box{
             right: 0;
-            bottom: 30%;
+            bottom: 26%;
         }
 
     .toggle-box::before{
@@ -214,7 +214,7 @@ form{ width: 100%; }
 
         .container.active .toggle-box::before{
             left: 0;
-            top: 70%;
+            top: 77%;
         }
 
         .container.active .toggle-panel.toggle-left{
@@ -230,6 +230,7 @@ form{ width: 100%; }
         .toggle-panel.toggle-right{
             right: 0;
             bottom: -30%;
+            height:25%;
         }
 
             .container.active .toggle-panel.toggle-right{ bottom: 0; }
